@@ -11,4 +11,4 @@ En esta carpeta se incluyen notebooks de ejemplo. El resto de experimentos consi
 El documento tfg-josmunpen.pdf incluye la memoria del Trabajo de Fin de Grado.
 
 ## Resultados experimento análisis de sentimiento
-La hoja de cálculo resultados-exp1.xslm incluye todos los resultados obtenidos en la primera serie de experimentos (análisis del sentimiento). 
+La hoja de cálculo resultados_exp1.xlsx incluye todos los resultados obtenidos en la primera serie de experimentos (análisis del sentimiento). 
